@@ -31,3 +31,7 @@ hiii akash
 stashing required
 
 
+<<<<<<< HEAD
+=======
+hellloooo
+>>>>>>> origin
