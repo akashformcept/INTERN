@@ -25,16 +25,13 @@ day may
 hello its sunday
 
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 hello its monday again
+
+hello monday
+  
+  
+  
+  
 =======
 hello monday
 >>>>>>> Stashed changes
-=======
-hello monday
->>>>>>> Stashed changes
-
-
-
-
-hiiiiiiS
