@@ -20,8 +20,6 @@ hiii formceptintern
 12/may/2023
 
 day may
-<<<<<<< Updated upstream
-=======
 
 
 hello its sunday
@@ -33,4 +31,3 @@ hiii akash
 stashing required
 
 
->>>>>>> Stashed changes
