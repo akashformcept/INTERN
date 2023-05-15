@@ -24,4 +24,8 @@ day may
 
 hello its sunday
 
+<<<<<<< Updated upstream
 hello its monday again
+=======
+hello monday
+>>>>>>> Stashed changes
