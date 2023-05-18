@@ -6,15 +6,7 @@
   [& args]
   (println "Hello, World!"))
   
-hello im collaborating
-  
-  hiii akash
-  
-  hellooo
-
-hello formcept
-hiii formceptintern
-
+hiii its tuesday
 
 
 12/may/2023
@@ -46,4 +38,5 @@ NEXT CHEERYYY
 
 
 hello ji
+
 
