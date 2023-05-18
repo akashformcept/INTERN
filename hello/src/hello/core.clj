@@ -6,15 +6,7 @@
   [& args]
   (println "Hello, World!"))
   
-hello im collaborating
-  
-  hiii akash
-  
-  hellooo
-
-hello formcept
-hiii formceptintern
-
+hiii its tuesday
 
 
 12/may/2023
@@ -30,4 +22,21 @@ hiii akash
 
 stashing required
 
+
 hello there , checking cherry picking
+
+hello checking cherry pick
+
+
+
+NEXT CHEERYYY pick 
+
+
+
+
+NEXT CHEERYYY
+
+
+hello ji
+
+
